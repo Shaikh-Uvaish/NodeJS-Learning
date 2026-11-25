@@ -6,6 +6,6 @@
 
 - Introduction to Node.js
 - Node.js as a Backend Technology
-- Overview of Backend Development
+- Overview of Backend
 
 **Progress:** Day 1 Completed ✅
