@@ -17,3 +17,13 @@
 - Role of JavaScript in Node.js
 
 **Progress:** Day 2 Completed ✅
+
+---
+
+## 📅 Day 3 – Improved Development
+- Workflow of Node
+- Understanding NPM
+- Basics of Debugging and error fixing
+
+**Progress:** Day 2 Completed ✅
+
