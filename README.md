@@ -25,5 +25,5 @@
 - Understanding NPM
 - Basics of Debugging and error fixing
 
-**Progress:** Day 2 Completed ✅
+**Progress:** Day 3 Completed ✅
 
